@@ -76,7 +76,7 @@ npx create-react-app my-app --template [template-name]
 
 > You can find a list of available templates by searching for ["cra-template-\*"](https://www.npmjs.com/search?q=cra-template-*) on npm.
 
-Our [Custom Templates](custom-templates.md) documentation describes how you can build your own template.
+Our Custom Templates documentation describes how you can build your own template.
 
 #### Creating a TypeScript app
 
@@ -86,7 +86,7 @@ You can start a new TypeScript app using templates. To use our provided TypeScri
 npx create-react-app my-app --template typescript
 ```
 
-If you already have a project and would like to add TypeScript, see our [Adding TypeScript](adding-typescript.md) documentation.
+If you already have a project and would like to add TypeScript, see our Adding TypeScript documentation.
 
 ### Selecting a package manager
 
@@ -151,7 +151,7 @@ The page will automatically reload if you make changes to the code. You will see
 
 Runs the test watcher in an interactive mode. By default, runs tests related to files changed since the last commit.
 
-[Read more about testing](running-tests.md).
+Read more about testing.
 
 ### `npm run build` or `yarn build`
 
