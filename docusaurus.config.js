@@ -35,11 +35,11 @@ const siteConfig = {
   ],
   themeConfig: {
     image: "img/logo-og.png",
-    // algolia: {
-    //   appId: "KJPVZ9JPYR",
-    //   apiKey: "0b0c78741c0164e6e3745d31007e43d9",
-    //   indexName: "crawler_Github Action Demo"
-    // },
+    algolia: {
+      appId: "KJPVZ9JPYR",
+      apiKey: "0b0c78741c0164e6e3745d31007e43d9",
+      indexName: "crawler_Github Action Demo"
+    },
     navbar: {
       title: "Create React App",
       logo: {
